@@ -36,4 +36,3 @@ jobs:
           path: |
             ./dependency-check-report.html
 
-Y
